@@ -1,4 +1,3 @@
-require './human'
 #Thinkableモジュール（thinkable.rb）
 #クラスではなく モジュール として作ってください
 module Thinkable

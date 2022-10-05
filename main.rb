@@ -1,5 +1,4 @@
 require './human'
-require './thinkable'
 
 # インスタンスの作成
 tanaka = Human.new("田中 太郎","25","電車")
